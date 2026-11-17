@@ -5,7 +5,7 @@
 {
   "profile": {
     "name": "Ren",
-    "role": "Student 🎓",
+    "role": "Master's Student 🎓",
     "age": 23,
     "location": "Chiba, Japan 🗾"
   }
