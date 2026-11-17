@@ -4,9 +4,9 @@
 ```json
 {
   "profile": {
-    "name": "Rentaro",
+    "name": "Ren",
     "role": "Student 🎓",
-    "age": 22,
+    "age": 23,
     "location": "Chiba, Japan 🗾"
   }
 }
